@@ -41,8 +41,6 @@ claude   # from the repo root
            Show the escrow ID once the asset is occupied.
 ```
 
-Session state persists to `.usufruct-demo.json` — every follow-up prompt resumes where the last one left off.
-
 **Be curious.** Let the agent walk you through the built-in scenarios, then push further. Ask it to swap ensembles, change the credit shape, reshape the auction curve, crank up the price escalation until a challenger is forced out, or spin up a fleet of escrows under a single cap. Ask what a holder can actually do with the asset once they hold the cap — what PTBs are legal inside a borrow, what other protocols compose. Ask it to pay rent in a different coin, or integrate your own asset instead of the dummy. The guide is the map; the agent drives; the protocol surprises.
 
 ---
