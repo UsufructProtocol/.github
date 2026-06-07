@@ -9,7 +9,7 @@
 
 ---
 
-Renting an asset locks it for everyone. **usufruct** separates the right of use from the asset itself — creating a competitive market where anyone who values it more can challenge the current holder. The market never closes.
+Renting an asset locks it for everyone. **usufruct** keeps the asset in the hands of whoever values it most — the right of use is always contestable, never locked. The market never closes.
 
 A rental protocol for Sui. Integrate once; the protocol handles price discovery, auctions, handovers, and credit curves.
 
