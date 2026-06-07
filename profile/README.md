@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://usufruct.io">usufruct.io</a> &nbsp;·&nbsp;
   <a href="https://sdk.usufruct.io">sdk.usufruct.io</a> &nbsp;·&nbsp;
+  <a href="https://playground.usufruct.io">playground.usufruct.io</a> &nbsp;·&nbsp;
   <a href="https://discord.gg/aQpBtnE6v">Discord</a>
 </p>
 
