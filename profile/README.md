@@ -9,9 +9,9 @@
 
 ---
 
-When you rent something, the asset leaves the market. An apartment listed for rent disappears from results the moment a guest checks in. The right of use — the *usus* — belongs to one holder for the duration, and while it does, the market is closed.
+Renting an asset locks it for everyone. **usufruct** separates the right of use from the asset itself — so the market never closes.
 
-**usufruct** separates the right of use from the asset so the two can trade independently. A rental protocol for Sui objects: integrate once and get price discovery, Dutch auctions, handovers, and credit curves. The asset never leaves the market.
+A rental protocol for Sui. Integrate once; the protocol handles price discovery, auctions, handovers, and credit curves.
 
 ## Why usufruct is different
 
