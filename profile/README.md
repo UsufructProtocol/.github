@@ -46,7 +46,7 @@ claude   # from the repo root
 
 ## Sui Move State of the Art
 
-Sui Move 2024 introduced enums with exhaustive match — algebraic data types, the same foundation as Haskell, OCaml, and Rust. For the first time, Move can express sum types: `WaitingState | RentingState` instead of boolean flags and nullable fields. The compiler rejects any function that does not handle every case.
+Sui Move 2024 opened the door to functional programming in Move. Enums with exhaustive match — algebraic data types, the same foundation as Haskell, OCaml, and Rust — made it possible to express sum types: `WaitingState | RentingState` instead of boolean flags and nullable fields. The compiler rejects any function that does not handle every case.
 
 usufruct applies this throughout. Illegal states have no type representation — financial state only exists when the asset is rented, structurally absent from every waiting variant. State transitions consume the old state and produce the new one; no partial update, no intermediate inconsistency. The compiler is the auditor. See [`CODE_PRINCIPLES.md`](https://github.com/0xkurious/usufruct-protocol/blob/main/CODE_PRINCIPLES.md).
 
